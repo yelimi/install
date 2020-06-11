@@ -10,6 +10,11 @@
 	* ![gi 1](https://user-images.githubusercontent.com/58458582/84277042-f21d1a80-ab6d-11ea-89dd-9082cca4a24d.PNG)
 	* ![gi 2](https://user-images.githubusercontent.com/58458582/84277045-f2b5b100-ab6d-11ea-868f-6d933dcf59ea.PNG)
 	* ![gi 설치](https://user-images.githubusercontent.com/58458582/84277048-f34e4780-ab6d-11ea-9a16-d9a2f243e547.PNG)
+	* ![gi1](https://user-images.githubusercontent.com/58458582/84409728-b99e3f00-ac48-11ea-93f8-b75398e12054.PNG)
+	* ![gi2](https://user-images.githubusercontent.com/58458582/84409733-ba36d580-ac48-11ea-84a1-ab0751dc555d.PNG)
+	* ![gi3](https://user-images.githubusercontent.com/58458582/84409737-bacf6c00-ac48-11ea-8f55-470738656140.PNG)
+	* ![gi4](https://user-images.githubusercontent.com/58458582/84409739-bacf6c00-ac48-11ea-8a9b-92d70b7adf31.PNG)
+	* ![gi5](https://user-images.githubusercontent.com/58458582/84409741-bb680280-ac48-11ea-9067-50b96485c3c4.PNG)
 	*  
 	* [root@host01 ~]# /u01/app/oraInventory/orainstRoot.sh
 	* [root@host01 ~]# /u01/app/oracle/product/11.2.0.3/grid/root.sh
